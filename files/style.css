@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(213, 255, 255);
+}
+
+.title{
+    text-align: center;
+    font-family: 'Brush Script MT',sans-serif;
+    font-size: 80px;
+    border-bottom: solid pink;
+    border-top: solid pink;
+    padding-bottom: 
+}
+
+.recipes-name{
+    text-align: center;
+    list-style: none;
+    padding-bottom: 10px;
+    font-size: 26px;
+    font-family: 'papyrus';
+    font-weight: bold; 
+}
