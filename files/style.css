@@ -1,5 +1,7 @@
-*{
+body{
     background-color: rgb(213, 255, 255);
+    margin-left: 100px ;
+    margin-right: 100px;
 }
 
 .title,.recipe-name{
